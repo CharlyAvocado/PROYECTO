@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP_PROYECTO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP_PROYECTO 1.0-SNAPSHOT API'
+com.mycompany.poop_proyecto
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/AdmnistracionEscolar.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/Alumno.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/Ascii.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/CrudAlumno.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/Datos.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/GeneradorNombres.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/GeneradorNumerosInscripcion.java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/KeyboardInput .java'
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP_PROYECTO/src/main/java/com/mycompany/poop_proyecto/RegistrosAcademicos.java'
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\src\main\java = 1638588376280
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\allclasses-frame.html = 1638589261348
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\allclasses-noframe.html = 1638589261350
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\constant-values.html = 1638589261229
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\deprecated-list.html = 1638589261345
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\help-doc.html = 1638589261356
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\index-all.html = 1638589261341
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\index.html = 1638589261352
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\overview-tree.html = 1638589261325
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\package-list = 1638589261202
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\script.js = 1638589261358
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP_PROYECTO\target\site\apidocs\stylesheet.css = 1638589005759
